@@ -42,7 +42,7 @@
 |---|---|---|
 | 🎟️ **[UniConnect Events](https://github.com/AnjeloRodrigo7/UOR_Event_Management_System_group01)** | University event management system (Group 01) | Git · GitHub · Team workflow |
 | 🌐 **[RotaSphere](https://github.com/AnjeloRodrigo7/Rotasphere)** | Official website for the Rotaract Club of University of Ruhuna | Web · UI/UX |
-| 📱 **[UOR LMS App Design](https://www.figma.com/YOUR_FIGMA_LINK)** | Team Figma design of a learning management system app | Figma · UX |
+| 📱 **[UOR LMS App Design](https://www.figma.com/proto/j6TBj1pWvBGLA7NZs9jsxO/Group-01-project?node-id=0-1&t=vOQwV3Kkf2VJL8aL-1)** | Team Figma design of a learning management system app | Figma · UX |
 | 🤖 **Coming soon** | AI/ML project: RAG chatbot / ML classifier | Python · LLM APIs |
 
 > 📌 Replace the links above with your real repo URLs.
