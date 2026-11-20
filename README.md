@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=640&lines=CS+Undergrad+%40+University+of+Ruhuna;Building+full-stack+web+apps;Exploring+Cloud%2C+DevOps+%26+AI%2FML;Open+to+freelance+projects" alt="typing" />
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=AnjeloRodrigo7&label=Profile%20Views&color=0e75b6&style=flat-square)
 ![Location](https://img.shields.io/badge/Sri%20Lanka-0f2027?style=flat-square&logo=googlemaps&logoColor=white)
 ![Status](https://img.shields.io/badge/Open%20to%20Freelance-00c853?style=flat-square)
 
@@ -40,8 +40,8 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🎟️ **[UniConnect Events](https://github.com/YOUR_USERNAME/UOR_Event_Management_System_group01)** | University event management system (Group 01) | Git · GitHub · Team workflow |
-| 🌐 **[RotaSphere](https://github.com/YOUR_USERNAME/REPO_NAME)** | Official website for the Rotaract Club of University of Ruhuna | Web · UI/UX |
+| 🎟️ **[UniConnect Events](https://github.com/AnjeloRodrigo7/UOR_Event_Management_System_group01)** | University event management system (Group 01) | Git · GitHub · Team workflow |
+| 🌐 **[RotaSphere](https://github.com/AnjeloRodrigo7/Rotasphere)** | Official website for the Rotaract Club of University of Ruhuna | Web · UI/UX |
 | 📱 **[UOR LMS App Design](https://www.figma.com/YOUR_FIGMA_LINK)** | Team Figma design of a learning management system app | Figma · UX |
 | 🤖 **Coming soon** | AI/ML project: RAG chatbot / ML classifier | Python · LLM APIs |
 
@@ -53,10 +53,10 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnjeloRodrigo7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjeloRodrigo7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://streak-stats.demolab.com?user=AnjeloRodrigo7&theme=tokyonight&hide_border=true&background=0d1117" />
 
 </div>
 
